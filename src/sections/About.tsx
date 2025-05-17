@@ -1,6 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import SectionTitle from '../components/SectionTitle';
 import { BookOpen, Code, LineChart } from 'lucide-react';
+import PhanindraImage from '../../phanindra.jpg';
 
 const About: React.FC = () => {
   const sectionRef = useRef<HTMLDivElement>(null);
@@ -89,9 +90,9 @@ const About: React.FC = () => {
           <div className="order-1 md:order-2 flex justify-center">
             <div className="relative">
               <div className="w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden border-4 border-teal-500 dark:border-teal-400 shadow-xl">
-                <img 
-                  src="/phanindra.jpg" 
-                  alt="Phanindra Tagore" 
+                <img              
+                  src={PhanindraImage} 
+                  alt="Phanindra"
                   className="w-full h-full object-cover"
                 />
               </div>
