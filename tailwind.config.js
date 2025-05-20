@@ -25,6 +25,15 @@ export default {
       },
       animation: {
         'bounce-slow': 'bounce 2s linear infinite',
+        fadein: 'fadein 1s ease-out forwards',
+        skill: 'fadein 0.8s ease-out forwards',
+        'pulse-custom': 'pulse 1.5s ease-in-out infinite',
+      },
+      keyframes: {
+        fadein: {
+          '0%': { opacity: '0' },
+          '100%': { opacity: '1' },
+        },
       },
       boxShadow: {
         'soft': '0 2px 15px rgba(0, 0, 0, 0.05)',
