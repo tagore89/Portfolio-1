@@ -144,7 +144,7 @@ const Contact: React.FC = () => {
                   <Linkedin className="h-5 w-5" />
                 </a>
                 <a 
-                  href="/resume.pdf" 
+                  href="https://github.com/tagore89/Portfolio-1/blob/main/resume.pdf" 
                   download
                   className="bg-teal-600 hover:bg-teal-700 text-white p-3 rounded-full transition-colors"
                   aria-label="Download Resume"
