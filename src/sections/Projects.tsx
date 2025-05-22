@@ -40,7 +40,7 @@ const Projects: React.FC = () => {
       image: 'https://images.pexels.com/photos/2402648/pexels-photo-2402648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
       technologies: ['React.js', 'Node.js', 'MongoDB', 'Express'],
       githubLink: 'https://github.com/',
-      demoLink: 'https://demo-link.example.com'
+      demoLink: 'https://bus-booking-phanindra.vercel.app/'
     },
     {
       title: 'Learning Management System',
