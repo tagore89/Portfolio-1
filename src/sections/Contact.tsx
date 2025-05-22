@@ -126,7 +126,7 @@ const Contact: React.FC = () => {
               <h4 className="font-bold mb-4">Connect With Me</h4>
               <div className="flex space-x-4">
                 <a 
-                  href="https://github.com/" 
+                  href="https://github.com/tagore89" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-gray-800 hover:bg-gray-900 text-white p-3 rounded-full transition-colors"
@@ -135,7 +135,7 @@ const Contact: React.FC = () => {
                   <Github className="h-5 w-5" />
                 </a>
                 <a 
-                  href="https://linkedin.com/in/" 
+                  href="https://www.linkedin.com/in/kattukolu-phanindra-tagore-reddy/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-blue-600 hover:bg-blue-700 text-white p-3 rounded-full transition-colors"
