@@ -39,7 +39,7 @@ const Projects: React.FC = () => {
       description: 'Full-stack application for online bus ticket booking with integrated payment gateway and real-time seat availability updates.',
       image: 'https://images.pexels.com/photos/2402648/pexels-photo-2402648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
       technologies: ['React.js', 'Node.js', 'MongoDB', 'Express'],
-      githubLink: 'https://github.com/',
+      githubLink: 'https://github.com/tagore89/Bus-Booking-System',
       demoLink: 'https://bus-booking-phanindra.vercel.app/'
     },
     {
